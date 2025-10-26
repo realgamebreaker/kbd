@@ -1,2 +1,7 @@
 # kbd
-very fun and pleasant sounds for your keyboard to improve your linux experience. totally pleasant. really. (cough-cough)
+sounds for your keyboard
+
+
+Copyright **[facedev](https://github.com/face-hh)** idrk
+
+directly extracted from ["fuck linux"](https://github.com/face-hh/fuck)
